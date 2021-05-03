@@ -1,0 +1,21 @@
+#footer-container {
+    background: #d2d6db;
+}
+.copyright-links {
+    width: 70%;
+    margin: 0px auto;
+}
+.copyright-links > .footer-nav > a {
+    text-decoration: none;
+    color: #000;
+    padding-left: 20px;
+    text-align: center;
+}
+.footer-content {
+    width: 70%;
+    margin: 0px auto;
+}
+.footer-content > p > a{
+    text-decoration: none;
+    color: #000;
+}
