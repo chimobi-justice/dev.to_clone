@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #eef0f1;
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.brand-holder {
+    margin-right: 20px;
+}
+.brand-holder > .brand {
+    background: #000;
+    color: #fff;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.search-parent {
+    width: 35%;
+}
+.search-parent > #search-parent-form-holder {
+    width: 100%;
+}
+.search-parent > #search-parent-form-holder > input {
+    background: #f1f1f1;
+}
+.c-my-btn-background {
+    background: #323ebe;
+    color: #fff;
+    font-weight: bold;
+}
+.c-my-btn-background:hover {
+    background: #0e1baf;
+    color: #fff;
+    font-weight: bold;
+}
+.c-my-btn-text {
+    color: #323ebe;
+    font-weight: bold;
+}
+.c-my-btn-text:hover {
+    color: #323ebe;
+}
