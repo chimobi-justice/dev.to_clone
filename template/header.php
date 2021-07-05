@@ -9,8 +9,11 @@
     <meta name="author" content="Justice Chimobi">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/styles/header.css">
-    <link rel="stylesheet" href="assets/styles/footer.css">
+    <link rel="stylesheet" href="assets/public/styles/header.css">
+    <link rel="stylesheet" href="assets/public/styles/aside-nav-left.css">
+    <link rel="stylesheet" href="assets/public/styles/index.css">
+    <link rel="stylesheet" href="assets/public/styles/aside-nav-right.css">
+    <link rel="stylesheet" href="assets/public/styles/footer.css">
     <title>DEV Community 👩‍💻👨‍💻</title>
 </head>
 <body>
@@ -25,7 +28,7 @@
             <div class="collapse navbar-collapse" id="navbarToggler">
                 <ul class="navbar-nav mr-auto search-parent">
                     <form method="GET" id="search-parent-form-holder">
-                        <input type="text" name="search" class="form-control w-100" id="search">
+                        <input type="text" name="search" class="form-control w-100" id="search" placeholder="Search....">
                     </form>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">

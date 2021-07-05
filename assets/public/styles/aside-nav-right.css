@@ -1,0 +1,8 @@
+.top-aside-nav-right > .img-aside-right-holder {
+    width: auto;
+    height: auto;
+}   
+.top-aside-nav-right > .img-aside-right-holder > img{
+    width: 100%;
+    height: 200px;
+} 

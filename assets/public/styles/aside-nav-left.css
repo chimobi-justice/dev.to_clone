@@ -1,0 +1,20 @@
+.top-aside-nav-left  {
+    background: #e4e5e6;
+    border-radius: 5px;
+    line-height: 1.5em;
+}
+.top-aside-nav-left > div > h5 > a {
+    text-decoration: none;
+    color: blue;
+} 
+.top-aside-nav-left > div > h5  {
+    font-weight: bold;
+} 
+.bottom-aside-nav-left > .img-aside-left-holder {
+    width: auto;
+    height: auto;
+}   
+.bottom-aside-nav-left > .img-aside-left-holder > img{
+    width: 100%;
+    height: 200px;
+}   
