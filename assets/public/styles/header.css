@@ -44,3 +44,6 @@ body {
 .c-my-btn-text:hover {
     color: #323ebe;
 }
+.c-my-btn-default:hover {
+    background: #ccc;
+}

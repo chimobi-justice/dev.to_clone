@@ -1,0 +1,14 @@
+[
+    {
+        "name": "sarah connor",
+        "title": "How to become a modern developer",
+        "profile": "assets/src/images/profile-man.jpg",
+        "logoBanner": "assets/src/images/banner.png",
+        "javaScript": "#javaScript",
+        "webdev": "#webdev",
+        "react": "#react",
+        "reactions": "30 reactions",
+        "comment": "15 comment",
+        "read": "3 hour ago"
+    }
+]
